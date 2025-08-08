@@ -38,9 +38,8 @@ cth-hrmis-frontend/
 ```
 
 ---
-
----
 ## 📝 License
 
 
 Released under the MIT License © 2025 onelovehch
+
