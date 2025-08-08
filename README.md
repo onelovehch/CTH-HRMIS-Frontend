@@ -38,11 +38,9 @@ cth-hrmis-frontend/
 ```
 
 ---
-## 🔗 前端 Repo
-
-後端專案請見 👉 [https://github.com/onelovehch/CTH‑HRMIS-Backend]
 
 ---
 ## 📝 License
+
 
 Released under the MIT License © 2025 onelovehch
